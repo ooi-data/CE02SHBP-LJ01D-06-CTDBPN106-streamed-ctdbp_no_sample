@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE02SHBP-LJ01D-06-CTDBPN106-streamed-ctdbp_no_sample
-last_request: '2021-07-19T18:08:41.155210Z'
+last_request: '2021-08-01T00:24:14.007528Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHBP-LJ01D-06-CTDBPN106-streamed-ctdbp_no_sample/main/history/response.json
 status: failed
