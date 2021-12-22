@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHBP-LJ01D-06-CTDBPN106-streamed-ctdbp_no_sample
 data_stream: CE02SHBP-LJ01D-06-CTDBPN106-streamed-ctdbp_no_sample
 end_date: '2021-12-03T22:26:45.475Z'
-last_updated: '2021-12-22T04:51:24.833686Z'
+last_updated: '2021-12-22T06:31:18.373353'
 start_date: '2014-09-25T18:17:58.929Z'
-status: pending
+status: success
